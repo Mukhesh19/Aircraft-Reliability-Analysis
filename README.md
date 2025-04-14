@@ -26,12 +26,12 @@ The notebook is structured in the following key steps:
 ### 2. Reliability Metrics & Trends
 - Calculated MTBF, MTTR, and failure counts
 - Visualized failure trends over time
-    ![Average Repair Cost](Charts/Failure Over Time by Components.png)
+    ![Average Repair Cost](Charts/Failure_Over_Time_by_Components.png)
 - Highlighted components with highest risk
 
 ### 3. Cost & Downtime Analysis
 - Analyzed **average repair cost** by component and vendor  
-  ![Average Repair Cost](charts/avg_repair_cost.png)
+  ![Average Repair Cost by Components](charts/Average_Repair_Cost_by_Components.png)
 - Visualized **total downtime** per component  
   ![Total Downtime per Component](charts/total_downtime.png)
 - Built a **Pareto chart** to identify top contributors (80/20 rule)  
