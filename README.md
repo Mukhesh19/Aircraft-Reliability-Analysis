@@ -37,7 +37,7 @@ The notebook is structured in the following key steps:
 - Visualized **total downtime** per component  
   ![Total Downtime per Component](Charts/Total_Downtime_by_Components.png)
 - Built a **Pareto chart** to identify top contributors (80/20 rule)  
-  ![Pareto Chart - Downtime Contributors](charts/pareto_downtime.png)
+  ![Pareto Chart - Downtime Contributors](Charts/Pareto_Chart.png)
 
 ### 4. Vendor Performance
 - Tracked failure trends by vendor over multiple years  
