@@ -35,7 +35,7 @@ The notebook is structured in the following key steps:
   ![Average Repair Cost by Vendors](Charts/Average_Repair_Cost_by_Vendors.png)
 
 - Visualized **total downtime** per component  
-  ![Total Downtime per Component](charts/total_downtime.png)
+  ![Total Downtime per Component](Charts/Total_Downtime_by_Components.png)
 - Built a **Pareto chart** to identify top contributors (80/20 rule)  
   ![Pareto Chart - Downtime Contributors](charts/pareto_downtime.png)
 
