@@ -58,7 +58,7 @@ The notebook is structured in the following key steps:
 
 ## 📂 Files
 
-- `Aircraft_Reliability_Analysis.ipynb` – Full end-to-end notebook
+- `Aircraft_Reliability_Analysis_Mukhesh.ipynb` – Full end-to-end notebook
 - `Aircraft_Component_Reliability_Dataset.csv` – Cleaned dataset
 - `charts/` – Key visualizations for use in presentations
 - `README.md` – Project overview
@@ -81,6 +81,6 @@ This project simulates a real-world scenario a **Reliability Analyst** might fac
 
 ## 📬 Contact
 
-Made with 💻 by **[Your Name]**  
-📧 [YourEmail@example.com]  
-🔗 [LinkedIn Profile] | [Portfolio Website] | [GitHub Profile]
+Made with 💻 by ## Mukhesh Ravi  
+📧 [mukheshravi195@gmail.com]  
+🔗 [[LinkedIn Profile](https://www.linkedin.com/in/mukheshravi/)]
