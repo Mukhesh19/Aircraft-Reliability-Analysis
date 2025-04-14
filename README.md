@@ -61,7 +61,6 @@ The notebook is structured in the following key steps:
 
 - `Aircraft_Reliability_Analysis_Mukhesh.ipynb` – Full end-to-end notebook
 - `Aircraft_Component_Reliability_Dataset.csv` – Cleaned dataset
-- `charts/` – Key visualizations for use in presentations
 - `README.md` – Project overview
 
 ---
