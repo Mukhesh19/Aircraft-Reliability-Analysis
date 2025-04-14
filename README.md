@@ -81,6 +81,6 @@ This project simulates a real-world scenario a **Reliability Analyst** might fac
 
 ## 📬 Contact
 
-Made with 💻 by ## Mukhesh Ravi  
+Made with 💻 by Mukhesh Ravi  
 📧 [mukheshravi195@gmail.com]  
 🔗 [[LinkedIn Profile](https://www.linkedin.com/in/mukheshravi/)]
