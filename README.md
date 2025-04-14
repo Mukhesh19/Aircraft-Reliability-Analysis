@@ -2,6 +2,7 @@
 
 This project presents a comprehensive data analysis and machine learning pipeline tailored for a **Reliability Analyst** role in the aviation industry. It focuses on identifying high-risk components, analyzing downtime and repair cost trends, and developing predictive models to forecast imminent component failures.
 
+VIDEO: https://drive.google.com/file/d/12pYbBJLRT2AwKJQ5TiuXsv-_WReYp8_1/view?usp=drive_link 
 ---
 
 ## 📌 Objective
