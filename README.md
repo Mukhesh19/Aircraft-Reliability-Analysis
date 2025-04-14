@@ -46,12 +46,10 @@ The notebook is structured in the following key steps:
  
 ### 5. Predictive Modeling
 - Trained 6 classifiers: Random Forest, Gradient Boosting, XGBoost, LightGBM, Logistic Regression, KNN  
-  ![Model Training Overview](charts/model_training.png)
 - Achieved up to **91% accuracy** and **F1-scores > 0.89**  
   ![Accuracy and F1 Score](Charts/ML_Model_Accuracy_Scores.png)
-- Evaluated performance with confusion matrices and classification reports  
-  ![Confusion Matrix](charts/confusion_matrix.png)
-
+- Evaluated performance with confusion matrices and classification reports (Refer reports in the notebook)
+  
 ### 6. Model Interpretability
 - Visualized **feature importance** from tree-based models and logistic regression  
   ![Feature Importance](Charts/Feature_Importance.png)
@@ -72,6 +70,7 @@ The notebook is structured in the following key steps:
 
 - `Aircraft_Reliability_Analysis_Mukhesh.ipynb` – Full end-to-end notebook
 - `Aircraft_Component_Reliability_Dataset.csv` – Cleaned dataset
+- `Charts Folder` - All infographics in this analysis
 - `README.md` – Project overview
 
 ---
