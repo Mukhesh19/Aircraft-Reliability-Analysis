@@ -26,24 +26,34 @@ The notebook is structured in the following key steps:
 ### 2. Reliability Metrics & Trends
 - Calculated MTBF, MTTR, and failure counts
 - Visualized failure trends over time
+  ![Failure Over Time by Components](Charts/Failure Over Time by Components.png)
 - Highlighted components with highest risk
 
 ### 3. Cost & Downtime Analysis
-- Analyzed **average repair cost** by component and vendor
-- Visualized **total downtime** per component
-- Built a **Pareto chart** to identify top contributors (80/20 rule)
+- Analyzed **average repair cost** by component and vendor  
+  ![Average Repair Cost](charts/avg_repair_cost.png)
+- Visualized **total downtime** per component  
+  ![Total Downtime per Component](charts/total_downtime.png)
+- Built a **Pareto chart** to identify top contributors (80/20 rule)  
+  ![Pareto Chart - Downtime Contributors](charts/pareto_downtime.png)
 
 ### 4. Vendor Performance
-- Tracked failure trends by vendor over multiple years
-- Identified vendors with increasing or inconsistent reliability
+- Tracked failure trends by vendor over multiple years  
+  ![Vendor Failure Trends](charts/vendor_trends.png)
+- Identified vendors with increasing or inconsistent reliability  
+  ![Vendor Reliability](charts/vendor_reliability.png)
 
 ### 5. Predictive Modeling
-- Trained 6 classifiers: Random Forest, Gradient Boosting, XGBoost, LightGBM, Logistic Regression, KNN
-- Achieved up to **91% accuracy** and **F1-scores > 0.89**
-- Evaluated performance with confusion matrices and classification reports
+- Trained 6 classifiers: Random Forest, Gradient Boosting, XGBoost, LightGBM, Logistic Regression, KNN  
+  ![Model Training Overview](charts/model_training.png)
+- Achieved up to **91% accuracy** and **F1-scores > 0.89**  
+  ![Accuracy and F1 Score](charts/model_accuracy_f1.png)
+- Evaluated performance with confusion matrices and classification reports  
+  ![Confusion Matrix](charts/confusion_matrix.png)
 
 ### 6. Model Interpretability
-- Visualized **feature importance** from tree-based models and logistic regression
+- Visualized **feature importance** from tree-based models and logistic regression  
+  ![Feature Importance](charts/feature_importance.png)
 - Identified key predictors: **Flight Hours Since Install**, **Component Name**, and **Repair Cost**
 
 ---
