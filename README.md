@@ -26,7 +26,7 @@ The notebook is structured in the following key steps:
 ### 2. Reliability Metrics & Trends
 - Calculated MTBF, MTTR, and failure counts
 - Visualized failure trends over time
-  ![Failure Over Time by Components](Charts/Failure Over Time by Components.png)
+    ![Average Repair Cost](Charts/Failure Over Time by Components.png)
 - Highlighted components with highest risk
 
 ### 3. Cost & Downtime Analysis
