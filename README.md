@@ -32,6 +32,8 @@ The notebook is structured in the following key steps:
 ### 3. Cost & Downtime Analysis
 - Analyzed **average repair cost** by component and vendor  
   ![Average Repair Cost by Components](charts/Average_Repair_Cost_by_Components.png)
+  ![Average Repair Cost by Vendors](charts/Average_Repair_Cost_by_Vendors.png)
+
 - Visualized **total downtime** per component  
   ![Total Downtime per Component](charts/total_downtime.png)
 - Built a **Pareto chart** to identify top contributors (80/20 rule)  
